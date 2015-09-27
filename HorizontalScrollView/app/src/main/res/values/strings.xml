@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HorizontalScrollViewEjemplo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_horizontal_view_basico">HorizontalViewBasico</string>
+    <string name="title_activity_horizontal_view_with_image_button">HorizontalViewWithImageButton</string>
+
+</resources>

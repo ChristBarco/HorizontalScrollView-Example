@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/menu_basico" android:title="Basico"
+        android:orderInCategory="100" app:showAsAction="never" />
+
+    <item android:id="@+id/menu_imageButton" android:title="Image Button"
+        android:orderInCategory="100" app:showAsAction="never" />
+
+</menu>
